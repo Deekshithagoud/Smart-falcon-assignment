@@ -1,10 +1,6 @@
-Sure! Here's a comprehensive `README.md` for your project:
-
----
 
 # Hyperledger Fabric Asset Management System
-
-## Project Description
+Project Description
 
 This project implements a blockchain-based system to manage and track assets for a financial institution. The system ensures the security, transparency, and immutability of asset records while providing an efficient way to track and manage asset-related transactions and histories. The assets represent accounts with specific attributes such as DEALERID, MSISDN, MPIN, BALANCE, STATUS, TRANSAMOUNT, TRANSTYPE, and REMARKS.
 
